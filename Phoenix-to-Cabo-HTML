@@ -22,6 +22,14 @@
     height: 20px;
     stroke-width: 1.35;
   }
+
+
+  .lv-cta-banner.lv-cta-phx-cabo {
+    background:
+      linear-gradient(rgba(15,22,38,.82), rgba(15,22,38,.82)),
+      url("https://valleyjet.com/wp-content/uploads/2025/12/VJ-Challenger-350-scaled.png") center center / cover no-repeat;
+  }
+
 </style>
 
 <section class="lv-hero lv-hero-phx-cabo" aria-label="Phoenix to Cabo Private Jet Charter – Valley Jet">
@@ -244,7 +252,7 @@
 <!-- ════════════════════════════════════════════
      CTA
 ════════════════════════════════════════════ -->
-<div class="lv-cta-banner" aria-labelledby="lv-cta-heading">
+<div class="lv-cta-banner lv-cta-phx-cabo" aria-labelledby="lv-cta-heading">
   <span class="lv-eyebrow-sm" style="color: var(--vj-orange);">Ready to Fly</span>
   <h2 id="lv-cta-heading">Book Your Phoenix to Cabo Private Jet Charter</h2>
   <p>Share your travel dates, passenger count, and preferred departure airport. We'll send aircraft options and transparent pricing fast.</p>
