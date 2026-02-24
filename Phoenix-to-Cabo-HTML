@@ -97,28 +97,39 @@
 
   <div class="lv-aircraft-grid">
     <article class="lv-aircraft-card">
-      <span class="lv-ac-type">Light Jet · Efficient</span>
+      <span class="lv-ac-type">Light Jet · Short Hop</span>
+      <div class="lv-ac-name">Phenom 100</div>
+      <p>The perfect quick-hop option for Cabo weekends. Efficient, comfortable, and ideal for smaller parties flying light.</p>
+      <div class="lv-ac-specs"><span>Up to 4 passengers</span><span>~2 hrs nonstop</span></div>
+    </article>
+    <article class="lv-aircraft-card">
+      <span class="lv-ac-type">Light Jet · Popular</span>
       <div class="lv-ac-name">Citation CJ4 Gen2</div>
-      <p>A strong option for smaller groups flying to Cabo with modern avionics, excellent speed, and comfort.</p>
-      <div class="lv-ac-specs"><span>Up to 9 passengers</span><span>~2 hrs nonstop</span></div>
+      <p>A favorite for Phoenix to Cabo charters with upgraded avionics, refined cabin comfort, and strong operating efficiency.</p>
+      <div class="lv-ac-specs"><span>Up to 9 passengers</span><span>Coast to Coast</span></div>
     </article>
     <article class="lv-aircraft-card">
-      <span class="lv-ac-type">Midsize · Popular</span>
-      <div class="lv-ac-name">Citation XLS+</div>
-      <p>Spacious stand-up cabin and ideal baggage capacity for golf clubs, resort luggage, and extended stays.</p>
-      <div class="lv-ac-specs"><span>Up to 9 passengers</span><span>Smooth Mexico routing</span></div>
+      <span class="lv-ac-type">Midsize · Best Seller</span>
+      <div class="lv-ac-name">Citation XLS</div>
+      <p>Valley Jet's go-to midsize aircraft with a spacious stand-up cabin and excellent baggage flexibility for resort travel.</p>
+      <div class="lv-ac-specs"><span>Up to 9 passengers</span><span>Transcontinental</span></div>
     </article>
     <article class="lv-aircraft-card">
-      <span class="lv-ac-type">Super-Midsize · Premium</span>
+      <span class="lv-ac-type">Super-Midsize · Long Range</span>
       <div class="lv-ac-name">Challenger 350</div>
-      <p>Exceptional cabin comfort and range for travelers wanting a premium private flight experience into Los Cabos.</p>
-      <div class="lv-ac-specs"><span>Up to 10 passengers</span><span>High-speed coastal access</span></div>
+      <p>One of the most requested super-midsize jets for premium comfort, speed, and nonstop range into Los Cabos.</p>
+      <div class="lv-ac-specs"><span>Up to 10 passengers</span><span>Coast to Coast</span></div>
     </article>
     <article class="lv-aircraft-card">
       <span class="lv-ac-type">Heavy Jet · Group Travel</span>
-      <div class="lv-ac-name">Gulfstream G450</div>
-      <p>Perfect for larger groups, executive teams, and families seeking maximum space, privacy, and luggage room.</p>
-      <div class="lv-ac-specs"><span>Up to 14 passengers</span><span>Transcontinental capable</span></div>
+      <div class="lv-ac-name">Legacy 600</div>
+      <p>Perfect when your party needs extra space, luggage capacity, and true long-range comfort for Cabo group itineraries.</p>
+      <div class="lv-ac-specs"><span>9+ passengers</span><span>Intercontinental</span></div>
+    </article>
+    <article class="lv-aircraft-card" style="display:flex;flex-direction:column;justify-content:center;min-height:290px;border:1px dashed rgba(255,83,61,.45);background:rgba(5,18,44,.35);text-align:center;">
+      <div class="lv-ac-name" style="margin-bottom:14px;">Need Something Else?</div>
+      <p style="max-width:320px;margin:0 auto;color:rgba(255,255,255,.72);">Our 7,000+ jet network covers any cabin class or mission profile.</p>
+      <p style="margin-top:10px;"><a href="https://valleyjet.com/contact/" style="color:var(--vj-orange);font-weight:700;text-decoration:none;">Contact us for a custom quote.</a></p>
     </article>
   </div>
 </div>
