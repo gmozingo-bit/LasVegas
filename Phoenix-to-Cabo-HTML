@@ -74,7 +74,7 @@
     <div class="lv-intro-img">
       <img
         src="https://valleyjet.com/wp-content/uploads/2025/10/Gemini_Generated_Image_4bz2as4bz2as4bz2.png"
-        alt="Private jet cabin for Phoenix to Cabo charter by Valley Jet"
+        alt="Phoenix to Cabo jet charter private jet cabin by Valley Jet"
         width="800"
         height="480"
         loading="lazy"
@@ -86,8 +86,8 @@
     </div>
     <div>
       <span class="lv-eyebrow-sm">Why Valley Jet</span>
-      <h2 style="color: var(--vj-navy);">Phoenix to Cabo Private Jet Charter, Done Right</h2>
-      <p style="color: #555; line-height: 1.8;">Valley Jet specializes in <strong>Phoenix to Cabo private jet charter</strong> flights for weekend escapes, family vacations, golf trips, and corporate travel. Fly directly from the Valley to Los Cabos without TSA lines, layovers, or crowded terminals.</p>
+      <h2 style="color: var(--vj-navy);">Phoenix to Cabo Jet Charter, Done Right</h2>
+      <p style="color: #555; line-height: 1.8;">Phoenix to Cabo jet charter flights with Valley Jet deliver nonstop private travel, flexible schedules, and concierge-level service for weekend escapes, family vacations, golf trips, and executive itineraries.</p>
       <p style="color: #555; line-height: 1.8;">Our charter team tracks aircraft availability in real time across a 7,000+ jet network, helping you secure the right aircraft and value—often with <strong>empty-leg and repositioning opportunities that can save up to 75%</strong>.</p>
       <p style="color: #555; line-height: 1.8;">From flight planning and customs coordination to ground transportation and resort transfers, your dedicated concierge handles every detail.</p>
       <a href="https://valleyjet.com/contact/" class="btn-primary" style="display: inline-block; margin-top: 24px;">Get a Free Quote</a>
@@ -100,7 +100,7 @@
 ════════════════════════════════════════════ -->
 <div id="lv-aircraft" class="lv-section-dark" aria-labelledby="lv-aircraft-heading">
   <span class="lv-eyebrow-sm">Our Fleet</span>
-  <h2 id="lv-aircraft-heading">Aircraft for Phoenix to Cabo Charters</h2>
+  <h2 id="lv-aircraft-heading">Phoenix to Cabo Jet Charter Aircraft Options</h2>
   <p style="max-width: 560px;">For this route, we match aircraft to your group size, luggage profile, and departure airport. Below are popular options for nonstop Phoenix to Cabo flights.</p>
 
   <div class="lv-aircraft-grid">
@@ -147,7 +147,7 @@
 ════════════════════════════════════════════ -->
 <div class="lv-section lv-services-phx-cabo" aria-labelledby="lv-services-heading">
   <span class="lv-eyebrow-sm">Charter Advantages</span>
-  <h2 id="lv-services-heading">Why Fly Private from Phoenix to Cabo</h2>
+  <h2 id="lv-services-heading">Why Choose a Phoenix to Cabo Jet Charter</h2>
   <div class="lv-service-grid">
     <div class="lv-service-item">
       <div class="lv-service-icon" aria-hidden="true" style="width:40px;height:40px;background:transparent !important;border:1px solid rgba(15,22,38,.18);border-radius:999px;color:var(--vj-navy);">
@@ -158,7 +158,7 @@
         </svg>
       </div>
       <div>
-        <h3>Nonstop Convenience</h3>
+        <h3>Phoenix to Cabo Jet Charter Convenience</h3>
         <p>Depart on your schedule from Phoenix-area airports and arrive in Cabo without airline layovers or terminal delays.</p>
       </div>
     </div>
@@ -198,7 +198,7 @@
 ════════════════════════════════════════════ -->
 <div class="lv-section-dark" aria-labelledby="lv-airports-heading">
   <span class="lv-eyebrow-sm">Airports</span>
-  <h2 id="lv-airports-heading">Cabo & Surrounding Airports We Serve</h2>
+  <h2 id="lv-airports-heading">Phoenix to Cabo Jet Charter Arrival Airports</h2>
   <p>Flying private gives you flexibility around Los Cabos. We can coordinate arrivals across Cabo and nearby Baja Sur airports based on your itinerary.</p>
   <div class="lv-airport-grid">
     <nav aria-label="Cabo and surrounding airport list">
@@ -254,7 +254,7 @@
 ════════════════════════════════════════════ -->
 <div class="lv-cta-banner lv-cta-phx-cabo" aria-labelledby="lv-cta-heading">
   <span class="lv-eyebrow-sm" style="color: var(--vj-orange);">Ready to Fly</span>
-  <h2 id="lv-cta-heading">Book Your Phoenix to Cabo Private Jet Charter</h2>
+  <h2 id="lv-cta-heading">Book Your Phoenix to Cabo Jet Charter</h2>
   <p>Share your travel dates, passenger count, and preferred departure airport. We'll send aircraft options and transparent pricing fast.</p>
   <a href="https://valleyjet.com/contact/" class="btn-primary">Get a Free Quote</a>
 </div>
@@ -265,30 +265,69 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "TravelAgency",
-  "name": "Valley Jet",
-  "url": "https://valleyjet.com",
-  "description": "Valley Jet provides private jet charter service from Phoenix to Cabo San Lucas with on-demand scheduling, concierge planning, and access to 7,000+ aircraft worldwide.",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Scottsdale",
-    "addressRegion": "AZ",
-    "addressCountry": "US"
-  },
-  "areaServed": ["Phoenix, AZ", "Scottsdale, AZ", "Cabo San Lucas, BCS", "San Jose del Cabo, BCS"],
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Phoenix to Cabo Private Jet Charter Services",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Phoenix to Cabo Private Jet Charter",
-          "description": "On-demand private jet flights from Phoenix-area airports to Los Cabos with concierge-level service and transparent charter pricing."
-        }
+  "@graph": [
+    {
+      "@type": ["Organization", "LocalBusiness"],
+      "name": "Valley Jet",
+      "url": "https://valleyjet.com",
+      "description": "Valley Jet provides Phoenix to Cabo jet charter service with on-demand scheduling and concierge support.",
+      "areaServed": ["Phoenix, AZ", "Scottsdale, AZ", "Los Cabos, BCS"],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Scottsdale",
+        "addressRegion": "AZ",
+        "addressCountry": "US"
       }
-    ]
-  }
+    },
+    {
+      "@type": "Flight",
+      "name": "Phoenix to Cabo Jet Charter",
+      "description": "Private jet charter routing from Phoenix-area airports to Los Cabos.",
+      "departureAirport": {
+        "@type": "Airport",
+        "name": "Phoenix Sky Harbor International Airport",
+        "iataCode": "PHX"
+      },
+      "arrivalAirport": {
+        "@type": "Airport",
+        "name": "Los Cabos International Airport",
+        "iataCode": "SJD"
+      },
+      "provider": {
+        "@type": "Organization",
+        "name": "Valley Jet",
+        "url": "https://valleyjet.com"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How long is a Phoenix to Cabo jet charter flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Typical Phoenix to Cabo jet charter flights are about 2 hours nonstop, depending on aircraft and weather."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I use for a Phoenix to Cabo jet charter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most travelers depart PHX or Scottsdale-area airports and arrive at SJD, with additional Los Cabos area options available."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Valley Jet provide custom aircraft options for Phoenix to Cabo jet charter trips?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Valley Jet sources aircraft from a 7,000+ network and matches cabin size, range, and budget to your itinerary."
+          }
+        }
+      ]
+    }
+  ]
 }
 </script>
