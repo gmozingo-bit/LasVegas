@@ -1,0 +1,275 @@
+<!-- ════════════════════════════════════════════
+     HERO
+════════════════════════════════════════════ -->
+<style>
+  .lv-hero.lv-hero-phx-cabo {
+    background:
+      linear-gradient(115deg, rgba(15,22,38,.72), rgba(15,22,38,.28)),
+      url("https://valleyjet.com/wp-content/uploads/2021/01/cb.jpg") center center / cover no-repeat;
+  }
+
+  .lv-services-phx-cabo .lv-service-icon {
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid rgba(15,22,38,.18);
+    border-radius: 999px;
+    color: var(--vj-navy);
+  }
+
+  .lv-services-phx-cabo .lv-service-icon svg {
+    width: 20px;
+    height: 20px;
+    stroke-width: 1.35;
+  }
+</style>
+
+<section class="lv-hero lv-hero-phx-cabo" aria-label="Phoenix to Cabo Private Jet Charter – Valley Jet">
+  <div class="lv-hero-inner">
+    <span class="lv-eyebrow">Valley Jet · Private Jet Charter</span>
+    <h1>Phoenix to<br><span>Cabo San Lucas</span></h1>
+    <p>Skip airline connections and fly private from Phoenix to Cabo in about 2 hours. Direct access, luxury cabins, and concierge-level service from wheels up to resort arrival.</p>
+    <div class="lv-hero-ctas">
+      <a href="https://valleyjet.com/contact/" class="btn-primary">Request a Free Quote</a>
+      <a href="#lv-aircraft" class="btn-outline-vj">View Aircraft</a>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════
+     STATS STRIP
+════════════════════════════════════════════ -->
+<div class="lv-stats" aria-label="Phoenix to Cabo private charter highlights">
+  <div class="lv-stat">
+    <span class="lv-stat-num">2<small style="font-size:1.1rem"> hrs</small></span>
+    <span class="lv-stat-label">Average Flight Time</span>
+  </div>
+  <div class="lv-stat">
+    <span class="lv-stat-num">7,000<small style="font-size:1.1rem">+</small></span>
+    <span class="lv-stat-label">Aircraft Worldwide</span>
+  </div>
+  <div class="lv-stat">
+    <span class="lv-stat-num">75%</span>
+    <span class="lv-stat-label">Savings via Empty Legs</span>
+  </div>
+  <div class="lv-stat">
+    <span class="lv-stat-num">24/7</span>
+    <span class="lv-stat-label">Concierge Support</span>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════
+     INTRO / ABOUT
+════════════════════════════════════════════ -->
+<section class="lv-section" style="padding: 80px 0;">
+  <div class="lv-two-col" style="padding: 0 10vw;">
+    <div class="lv-intro-img">
+      <img
+        src="https://valleyjet.com/wp-content/uploads/2025/10/Gemini_Generated_Image_4bz2as4bz2as4bz2.png"
+        alt="Private jet cabin for Phoenix to Cabo charter by Valley Jet"
+        width="800"
+        height="480"
+        loading="lazy"
+      />
+      <div class="lv-intro-badge">
+        <strong>#1</strong>
+        <span>Southwest Charter</span>
+      </div>
+    </div>
+    <div>
+      <span class="lv-eyebrow-sm">Why Valley Jet</span>
+      <h2 style="color: var(--vj-navy);">Phoenix to Cabo Private Jet Charter, Done Right</h2>
+      <p style="color: #555; line-height: 1.8;">Valley Jet specializes in <strong>Phoenix to Cabo private jet charter</strong> flights for weekend escapes, family vacations, golf trips, and corporate travel. Fly directly from the Valley to Los Cabos without TSA lines, layovers, or crowded terminals.</p>
+      <p style="color: #555; line-height: 1.8;">Our charter team tracks aircraft availability in real time across a 7,000+ jet network, helping you secure the right aircraft and value—often with <strong>empty-leg and repositioning opportunities that can save up to 75%</strong>.</p>
+      <p style="color: #555; line-height: 1.8;">From flight planning and customs coordination to ground transportation and resort transfers, your dedicated concierge handles every detail.</p>
+      <a href="https://valleyjet.com/contact/" class="btn-primary" style="display: inline-block; margin-top: 24px;">Get a Free Quote</a>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════
+     AIRCRAFT
+════════════════════════════════════════════ -->
+<div id="lv-aircraft" class="lv-section-dark" aria-labelledby="lv-aircraft-heading">
+  <span class="lv-eyebrow-sm">Our Fleet</span>
+  <h2 id="lv-aircraft-heading">Aircraft for Phoenix to Cabo Charters</h2>
+  <p style="max-width: 560px;">For this route, we match aircraft to your group size, luggage profile, and departure airport. Below are popular options for nonstop Phoenix to Cabo flights.</p>
+
+  <div class="lv-aircraft-grid">
+    <article class="lv-aircraft-card">
+      <span class="lv-ac-type">Light Jet · Efficient</span>
+      <div class="lv-ac-name">Citation CJ4 Gen2</div>
+      <p>A strong option for smaller groups flying to Cabo with modern avionics, excellent speed, and comfort.</p>
+      <div class="lv-ac-specs"><span>Up to 9 passengers</span><span>~2 hrs nonstop</span></div>
+    </article>
+    <article class="lv-aircraft-card">
+      <span class="lv-ac-type">Midsize · Popular</span>
+      <div class="lv-ac-name">Citation XLS+</div>
+      <p>Spacious stand-up cabin and ideal baggage capacity for golf clubs, resort luggage, and extended stays.</p>
+      <div class="lv-ac-specs"><span>Up to 9 passengers</span><span>Smooth Mexico routing</span></div>
+    </article>
+    <article class="lv-aircraft-card">
+      <span class="lv-ac-type">Super-Midsize · Premium</span>
+      <div class="lv-ac-name">Challenger 350</div>
+      <p>Exceptional cabin comfort and range for travelers wanting a premium private flight experience into Los Cabos.</p>
+      <div class="lv-ac-specs"><span>Up to 10 passengers</span><span>High-speed coastal access</span></div>
+    </article>
+    <article class="lv-aircraft-card">
+      <span class="lv-ac-type">Heavy Jet · Group Travel</span>
+      <div class="lv-ac-name">Gulfstream G450</div>
+      <p>Perfect for larger groups, executive teams, and families seeking maximum space, privacy, and luggage room.</p>
+      <div class="lv-ac-specs"><span>Up to 14 passengers</span><span>Transcontinental capable</span></div>
+    </article>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════
+     SERVICES
+════════════════════════════════════════════ -->
+<div class="lv-section lv-services-phx-cabo" aria-labelledby="lv-services-heading">
+  <span class="lv-eyebrow-sm">Charter Advantages</span>
+  <h2 id="lv-services-heading">Why Fly Private from Phoenix to Cabo</h2>
+  <div class="lv-service-grid">
+    <div class="lv-service-item">
+      <div class="lv-service-icon" aria-hidden="true" style="width:40px;height:40px;background:transparent !important;border:1px solid rgba(15,22,38,.18);border-radius:999px;color:var(--vj-navy);">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" style="width:20px;height:20px;">
+          <path d="M21 16v-2a2 2 0 0 0-1.2-1.83L13 9V4.5a1.5 1.5 0 0 0-3 0V9L3.2 12.17A2 2 0 0 0 2 14v2"/>
+          <path d="M11 19h2"/>
+          <path d="M8 22h8"/>
+        </svg>
+      </div>
+      <div>
+        <h3>Nonstop Convenience</h3>
+        <p>Depart on your schedule from Phoenix-area airports and arrive in Cabo without airline layovers or terminal delays.</p>
+      </div>
+    </div>
+    <div class="lv-service-item">
+      <div class="lv-service-icon" aria-hidden="true" style="width:40px;height:40px;background:transparent !important;border:1px solid rgba(15,22,38,.18);border-radius:999px;color:var(--vj-navy);">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" style="width:20px;height:20px;">
+          <line x1="19" y1="5" x2="5" y2="19"/>
+          <circle cx="7" cy="7" r="2"/>
+          <circle cx="17" cy="17" r="2"/>
+        </svg>
+      </div>
+      <div>
+        <h3>Smart Charter Pricing</h3>
+        <p>We monitor network positioning and empty legs daily to reduce deadhead costs and unlock the best available rate.</p>
+      </div>
+    </div>
+    <div class="lv-service-item">
+      <div class="lv-service-icon" aria-hidden="true" style="width:40px;height:40px;background:transparent !important;border:1px solid rgba(15,22,38,.18);border-radius:999px;color:var(--vj-navy);">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" style="width:20px;height:20px;">
+          <rect x="3" y="4" width="18" height="18" rx="3"/>
+          <line x1="8" y1="2.5" x2="8" y2="6"/>
+          <line x1="16" y1="2.5" x2="16" y2="6"/>
+          <line x1="3" y1="10" x2="21" y2="10"/>
+          <path d="m9 15 2 2 4-4"/>
+        </svg>
+      </div>
+      <div>
+        <h3>Full Concierge Coordination</h3>
+        <p>Customs support, ground transfers, catering, and return scheduling are managed end-to-end by your Valley Jet concierge.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════
+     AIRPORTS
+════════════════════════════════════════════ -->
+<div class="lv-section-dark" aria-labelledby="lv-airports-heading">
+  <span class="lv-eyebrow-sm">Airports</span>
+  <h2 id="lv-airports-heading">Cabo & Surrounding Airports We Serve</h2>
+  <p>Flying private gives you flexibility around Los Cabos. We can coordinate arrivals across Cabo and nearby Baja Sur airports based on your itinerary.</p>
+  <div class="lv-airport-grid">
+    <nav aria-label="Cabo and surrounding airport list">
+      <ul class="lv-airport-list">
+        <li>
+          <a href="https://www.loscabosairport.com/" target="_blank" rel="noopener noreferrer">
+            <span><span class="lv-airport-code">SJD</span>Los Cabos International Airport</span>
+            <span class="lv-airport-arrow">→</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://acukwik.com/Airport-Info/MMSL" target="_blank" rel="noopener noreferrer">
+            <span><span class="lv-airport-code">MMSL</span>Cabo San Lucas International</span>
+            <span class="lv-airport-arrow">→</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://acukwik.com/Airport-Info/MMLP" target="_blank" rel="noopener noreferrer">
+            <span><span class="lv-airport-code">LAP</span>Manuel Márquez de León International (La Paz)</span>
+            <span class="lv-airport-arrow">→</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://acukwik.com/Airport-Info/MMLT" target="_blank" rel="noopener noreferrer">
+            <span><span class="lv-airport-code">LTO</span>Loreto International Airport</span>
+            <span class="lv-airport-arrow">→</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://acukwik.com/Airport-Info/MMCS" target="_blank" rel="noopener noreferrer">
+            <span><span class="lv-airport-code">CSL</span>Cabo San Lucas Airfield</span>
+            <span class="lv-airport-arrow">→</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <div class="lv-map-wrap">
+      <iframe
+        src="https://www.google.com/maps?q=Los+Cabos+International+Airport&output=embed"
+        title="Map of Cabo airports served by Valley Jet"
+        height="360"
+        style="border:0"
+        allowfullscreen
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════
+     CTA
+════════════════════════════════════════════ -->
+<div class="lv-cta-banner" aria-labelledby="lv-cta-heading">
+  <span class="lv-eyebrow-sm" style="color: var(--vj-orange);">Ready to Fly</span>
+  <h2 id="lv-cta-heading">Book Your Phoenix to Cabo Private Jet Charter</h2>
+  <p>Share your travel dates, passenger count, and preferred departure airport. We'll send aircraft options and transparent pricing fast.</p>
+  <a href="https://valleyjet.com/contact/" class="btn-primary">Get a Free Quote</a>
+</div>
+
+<!-- ════════════════════════════════════════════
+     SEO: STRUCTURED DATA
+════════════════════════════════════════════ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TravelAgency",
+  "name": "Valley Jet",
+  "url": "https://valleyjet.com",
+  "description": "Valley Jet provides private jet charter service from Phoenix to Cabo San Lucas with on-demand scheduling, concierge planning, and access to 7,000+ aircraft worldwide.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Scottsdale",
+    "addressRegion": "AZ",
+    "addressCountry": "US"
+  },
+  "areaServed": ["Phoenix, AZ", "Scottsdale, AZ", "Cabo San Lucas, BCS", "San Jose del Cabo, BCS"],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Phoenix to Cabo Private Jet Charter Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Phoenix to Cabo Private Jet Charter",
+          "description": "On-demand private jet flights from Phoenix-area airports to Los Cabos with concierge-level service and transparent charter pricing."
+        }
+      }
+    ]
+  }
+}
+</script>
