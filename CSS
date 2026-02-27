@@ -739,3 +739,52 @@
   .lv-section-dark,
   .lv-section-light { padding: 60px 6vw; }
 }
+
+
+/* ==========================================================
+   Bootstrap-style nested dropdown for your menu markup
+   UL#main-menu .dropdown-menu .dropdown-submenu
+   ========================================================== */
+
+/* Make sure dropdown items can position children */
+#main-menu .dropdown-menu li {
+  position: relative;
+}
+
+/* Ensure first dropdown looks normal (theme may already do this) */
+#main-menu .dropdown-menu {
+  margin: 0;
+}
+
+/* Position the nested dropdown to the right of its parent item */
+#main-menu .dropdown-menu .dropdown-submenu > .dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -0.25rem;
+  display: none;              /* hidden until hover/focus */
+}
+
+/* Show nested dropdown on hover (desktop) */
+#main-menu .dropdown-menu .dropdown-submenu:hover > .dropdown-menu {
+  display: block;
+}
+
+/* Show nested dropdown on keyboard focus too */
+#main-menu .dropdown-menu .dropdown-submenu:focus-within > .dropdown-menu {
+  display: block;
+}
+
+/* Make the parent item look clickable and keep it from wrapping weird */
+#main-menu .dropdown-menu .dropdown-submenu > a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+/* Add a right-caret indicator for submenus */
+#main-menu .dropdown-menu .dropdown-submenu > a:after {
+  content: "›";
+  margin-left: 0.5rem;
+}
