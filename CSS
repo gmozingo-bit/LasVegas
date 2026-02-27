@@ -617,14 +617,20 @@
 
 .lv-service-icon {
   flex-shrink: 0;
-  width: 46px;
-  height: 46px;
-  background: var(--vj-orange);
+  width: 40px;
+  height: 40px;
+  background: transparent;
+  border: 1px solid rgba(15,22,38,.18);
+  border-radius: 999px;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: white;
-  font-size: 1.1rem;
+  color: var(--vj-navy);
+}
+
+.lv-service-icon svg {
+  width: 20px;
+  height: 20px;
 }
 
 .lv-service-item h3 {
