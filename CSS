@@ -436,6 +436,13 @@ body * {
 
 .lv-hero-inner { max-width: 620px; }
 
+/* ── ASPEN HERO OVERRIDE ── */
+.aspen-hero {
+  background:
+    linear-gradient(to right, rgba(15,22,38,.88) 42%, rgba(15,22,38,.40) 100%),
+    url('https://valleyjet.com/wp-content/uploads/2026/03/16-9SnowXLS-2.png') center 50% / cover no-repeat;
+}
+
 .lv-eyebrow {
   display: block;
   text-transform: uppercase;
